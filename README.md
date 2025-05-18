@@ -24,4 +24,4 @@ Welcome to the React-native social media application showcasing a social-media f
 - `npx expo start`  <br>
 
 
-Reference: This project is created as part of an instructor-guided course. Nata Vacheishvili, "All Levels) - Build iOS and Android Apps: Master Hooks, Redux Toolkit, Navigation, Authentication, Payment & App Stores"  [Accessed May 17, 2025].
+Reference: This project is created as part of an instructor-guided course. Nata Vacheishvili, "All Levels - Build iOS and Android Apps: Master Hooks, Redux Toolkit, Navigation, Authentication, Payment & App Stores"  [Accessed May 17, 2025].
