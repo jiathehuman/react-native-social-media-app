@@ -12,6 +12,7 @@ Welcome to the React-native social media application showcasing a social-media f
 - PropTypes for prop validation
 - Modular Component structure
 
+## 📷 Sample
 <p>
   <img src="img.png" alt="App screenshot" width="576"/>
 </p>
